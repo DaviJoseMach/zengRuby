@@ -1,6 +1,6 @@
 # zengRuby
 
-![zengRuby Logo](logo.png)
+![zengRuby Logo](https://cdn.dribbble.com/users/2156/screenshots/988487/media/81ea131a562d6a2aba0fa77f7d6fba01.png?compress=1&resize=400x300&vertical=center)
 
 Bem-vindo ao zengRuby, um repositório dedicado ao meu estudo e prática com a linguagem de programação Ruby. Aqui você encontrará código, projetos, exemplos e informações relacionadas ao Ruby.
 
