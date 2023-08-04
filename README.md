@@ -40,14 +40,11 @@ Ruby é uma linguagem de programação dinâmica, de alto nível e orientada a o
 
 ## Conteúdo
 
-- [Introdução](./introducao.md) - Uma introdução básica à linguagem Ruby.
+- [Sintaxe (code)](https://github.com/LeviAckr/zengRuby/tree/main/bases) - Uma introdução básica à linguagem Ruby.
 - [Estruturas de Controle](./estruturas_de_controle.md) - Aprenda sobre estruturas de decisão e repetição em Ruby.
-- [Orientação a Objetos](./orientacao_a_objetos.md) - Entenda os conceitos de orientação a objetos em Ruby.
+- [Orientação a Objetos](https://github.com/LeviAckr/zengRuby/blob/main/or.md) - Entenda os conceitos de orientação a objetos em Ruby.
 - [Coleções](./colecoes.md) - Exploração de Arrays, Hashes e outras coleções em Ruby.
-- [Tratamento de Exceções](./tratamento_de_excecoes.md) - Como lidar com exceções e erros em Ruby.
-- [Trabalhando com Arquivos](./trabalhando_com_arquivos.md) - Leitura, escrita e manipulação de arquivos em Ruby.
-- [JSON em Ruby](./json_em_ruby.md) - Como trabalhar com JSON em Ruby.
-- [Exemplos](./exemplos/) - Pasta contendo exemplos práticos e projetos pequenos.
+- [Exemplos](https://github.com/LeviAckr/zengRuby/tree/main/bases) - Pasta contendo exemplos práticos e projetos pequenos.
 
 ## Como Contribuir
 
@@ -66,5 +63,4 @@ Aqui estão alguns recursos adicionais para aprimorar seus conhecimentos em Ruby
 Este projeto está licenciado sob a [Licença MIT](./LICENSE). Sinta-se à vontade para usar o conteúdo aqui presente como desejar, mas lembre-se de dar crédito se você utilizar este material em algum lugar.
 
 Espero que este repositório seja útil para você em sua jornada de aprendizado de Ruby. Se tiver alguma dúvida, sugestão ou feedback, fique à vontade para abrir uma issue ou me contatar diretamente.
-
 
